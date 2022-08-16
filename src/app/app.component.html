@@ -3,5 +3,7 @@
     <app-header></app-header>
     <app-side-bar></app-side-bar>
     <app-categories *ngIf="!show" (click)="showCart()"></app-categories>
+    <app-searching-bar></app-searching-bar>
     <app-cart *ngIf="show" ></app-cart>
+    <app-products *ngIf="show" ></app-products>
 </div>

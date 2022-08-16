@@ -8,16 +8,13 @@ import { Component, OnInit } from '@angular/core';
 export class ProductsComponent implements OnInit {
    a = 0;
    number=0;
+
+   
   constructor() { }
 
   ngOnInit(): void {
   }
-
-  onClick(){
-
-
-  }
-
+  
     plus(){
       this.a++;
       this.number=this.a;
