@@ -1,0 +1,7 @@
+
+<div class="screen">
+    <app-header></app-header>
+    <app-side-bar></app-side-bar>
+    <app-categories *ngIf="!show" (click)="showCart()"></app-categories>
+    <app-cart *ngIf="show" ></app-cart>
+</div>

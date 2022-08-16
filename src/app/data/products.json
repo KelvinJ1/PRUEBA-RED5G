@@ -1,0 +1,153 @@
+{
+    "data":[
+        {
+        "_id":1,
+        "name": "Arroz Roa 1000g",
+        "image":"https://i.imgur.com/DCgC6iL.jpg",
+        "price":"1.200"
+        },
+        
+        {
+        "_id":2,
+        "name": "Coca Cola 250ml",
+        "image":"https://i.imgur.com/kBrSovU.jpg",
+        "price":"1.200"
+        },
+        
+        {
+        "_id":3,
+        "name": "Atún Van Camp 180g",
+        "image":"https://i.imgur.com/d2qyiup.jpg",
+        "price":"1.200"
+        },
+        
+        {
+        "_id":4,
+        "name": "Maíz tostado la especial 40g",
+        "image":"https://i.imgur.com/3k5HiVk.jpg",
+        "price":"1.200"
+        },
+        
+        {
+        "_id":5,
+        "name": "Saltín Noel tradicional 3 tacos 300g ",
+        "image":"https://i.imgur.com/WMSR0gw.jpg",
+        "price":"1.200"
+        },
+        
+        {
+        "_id":6,
+        "name": "Refresco de mora tree fruits 1000ml",
+        "image":"https://i.imgur.com/m4EUXuZ.png",
+        "price":"1.200"
+        },
+        
+        {
+        "_id":7,
+        "name": "Galleta Happy Cream Vanilla 6pq",
+        "image":"https://i.imgur.com/occyBzG.png",
+        "price":"1.200"
+        },
+        
+        {
+        "_id":8,
+        "name": "Alimento para perros DOG CHOW 4K",
+        "image":"https://i.imgur.com/bsh2kwh.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":9,
+        "name": "Queso Mozarella tajado Alpina 400g",
+        "image":"https://i.imgur.com/kulbb6L.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":10,
+        "name": "Galleta OREO 6PQ 216g",
+        "image":"https://i.imgur.com/CscQUEO.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":11,
+        "name": "Jugo Néctar pague 7 lleve 10",
+        "image":"https://i.imgur.com/34OZDAj.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":12,
+        "name": "Refresco Tampico 2000ml",
+        "image":"https://i.imgur.com/okV7dKc.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":13,
+        "name": "Bebida Pony Malta 1500ml ",
+        "image":"https://i.imgur.com/V2oQiWR.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":14,
+        "name": "Doritos familiar 185g",
+        "image":"https://i.imgur.com/PWiyy9C.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":15,
+        "name": "Obleas con arequipe 24 und",
+        "image":"https://i.imgur.com/m9b00t9.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":16,
+        "name": "Papas Kythos 115g",
+        "image":"https://i.imgur.com/Sj4COpN.jpg",
+        "price":"1.200"
+        },
+        
+        
+        {
+        "_id":17,
+        "name": "Aceite Girasol JBO omega 1000ml",
+        "image":"https://i.imgur.com/wlHM2FI.jpg",
+        "price":"1.200"
+        },
+
+        {
+            "_id":18,
+            "name": "Azúcar morena Manuelita 1000g",
+            "image":"https://i.imgur.com/7LjlnSQ.jpg",
+            "price":"1.200"
+            }  ,
+
+            {
+                "_id":19,
+                "name": "Pasta La Muñeca 500g",
+                "image":"https://i.imgur.com/tE7maGN.jpg",
+                "price":"1.200"
+                },
+
+                {
+                    "_id":20,
+                    "name": "Marshmallow FINI 250g",
+                    "image":"https://i.imgur.com/8AdIK6z.jpg",
+                    "price":"1.200"
+                    } 
+    
+    ]
+}
